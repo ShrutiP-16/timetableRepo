@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="example.xsl"?>
+<library_details>
+<library>
+<BookName>WebTechnology</BookName>
+<Author>Sunil</Author>
+<Price>700</Price>
+</library>
+<library>
+<BookName>Cloudcomputing</BookName>
+<Author>Chandra</Author>
+<Price>7000</Price>
+</library>
+</library_details>
